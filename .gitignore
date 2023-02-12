@@ -1,1 +1,6 @@
-airt.c
+
+*.json
+*.txt
+*.exe
+*/
+
