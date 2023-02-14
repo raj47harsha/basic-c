@@ -1,3 +1,6 @@
 [submodule "c/basic.c"]
 	path = c/basic.c
 	url = https://github.com/raj47harsha/basic-c
+[submodule "c/pattern/basic-c"]
+	path = c/pattern/basic-c
+	url = https://github.com/raj47harsha/coding
